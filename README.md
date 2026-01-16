@@ -4,12 +4,6 @@
 
 <h3 align="left">Sejam bem-vindos ao meu perfil !!!</h3>
 
-###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHAM01&show_icons=true&theme=radical)
-
-###
-
 <br clear="both">
 
 <div align="center">
